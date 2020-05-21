@@ -1,6 +1,6 @@
 <?php
 
-namespace \Cresenity\Core;
+namespace Cresenity\Core;
 
 use Symfony\Component\PropertyAccess\Exception\NoSuchIndexException;
 use Symfony\Component\PropertyAccess\Exception\NoSuchPropertyException;

@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cresenity\\Core\\": "src/libraries/"
+            "Cresenity\\Core\\": "libraries/"
         }
     }
 }

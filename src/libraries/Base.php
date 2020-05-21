@@ -22,4 +22,8 @@ class Base {
         return $basename;
     }
 
+    
+    public static function helloWorld() {
+        return "Hello World";
+    }
 }
